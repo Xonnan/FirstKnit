@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Matthew Ramirez"
 output: 
   html_document:
     number_sections: true
@@ -17,23 +17,24 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
-
-     
+I attended Lancaster Highschool and yes I graduated.
+Math class was easier to do than english.
+My best subject was multimedia comprehension.     
 
 
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
-   
+It is a windows computer.  
+4 out of 10 I know how to use my computer.
+It is decent interent that its not slow all the time.
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I prefer to be called Matt or Matthew.
    
  
 
@@ -44,7 +45,9 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+I am trying to become someone who can help others. 
+Psychology is a subject that I think would get me to my goal. 
+For now its a bachelors degree.  
    
  
 
@@ -55,7 +58,8 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+I have gone to one foreign country called Guatemala.
+I have not gone to the military and if I did get drafted it would be the coastal guard.
    
   
 
@@ -68,9 +72,10 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
-   
- 
+I did take math 115.  
+No I did not know about the part about math 116.
+At least an A or a B in this class.
+To not fail and keep on going fourth in life.
 
 
 
